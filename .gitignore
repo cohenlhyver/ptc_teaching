@@ -1,3 +1,11 @@
 .DS_Store
 
-*/venv
+iDSP/S3_Oct20/venv/*
+iDSP/S4_Jan21/venv/*
+iDSP/img/*
+
+iDSP/S4_Jan21/.ipynb_checkpoints/*
+iDSP/S3_Oct20/.ipynb_checkpoints/*
+
+iDSP/S3_Oct20/.draft*
+iDSP/S4_Jan21/.draft*
